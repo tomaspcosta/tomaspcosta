@@ -1,4 +1,4 @@
-# 💫 Welcome to my profile:
+# 💫 Welcome to my profile!
 🙋‍♂️ I'm Tomás Costa and i live in Bragança, Portugal.<br>
 🎓 I hold a degree in Computer Engineering from IPB and I'm currently pursuing a Master's in Informatics at the same institution.<br>
 🛡️ Passionate about Cybersecurity and software development.<br>

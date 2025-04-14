@@ -1,5 +1,11 @@
 # 💫 About Me:
-🎓 I have a degree in Computer Engineering from IPB.<br>🛡️ Passionate about Cybersecurity and software development.<br>⚙️ Experienced with Python, JavaScript, and SCAP automation.<br>📚 Always learning, currently diving into Terraform and mobile app development with Kotlin.<br>🧠 Interested in AI, ethical hacking, and automation.<br>🎮 Passionate about video games and tech in general.
+🙋‍♂️ I'm Tomás Costa and i live in Bragança, Portugal.<br>
+🎓 I hold a degree in Computer Engineering from IPB and I'm currently pursuing a Master's in Informatics at the same institution.<br>
+🛡️ Passionate about Cybersecurity and software development.<br>
+⚙️ Experienced with Python, JavaScript, and SCAP automation.<br>
+📚 Always learning, currently diving into Terraform and mobile app development with Kotlin.<br>
+🧠 Interested in AI, ethical hacking, and automation.<br>
+🎮 Passionate about video games and tech in general.
 
 
 ## 🌐 Socials:

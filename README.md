@@ -1,58 +1,16 @@
-Hi 👋 My name is Tomás Costa
-============================
+# 💫 About Me:
+🎓 I have a degree in Computer Engineering from IPB.<br>🛡️ Passionate about Cybersecurity and software development.<br>⚙️ Experienced with Python, JavaScript, and SCAP automation.<br>📚 Always learning, currently diving into Terraform and mobile app development with Kotlin.<br>🧠 Interested in AI, ethical hacking, and automation.<br>🎮 Passionate about video games and tech in general.
 
-* 🌍  I'm based in Mirandela, Portugal
-* ✉️  You can contact me at [jotomascosta1333@gmail.com](mailto:jtomaspcosta@gmail.com)
 
-### About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomaspcosta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jtomaspcosta@gmail.com) 
 
-I'm a dedicated Informatics Engineering student at Instituto Politécnico de Bragança, with a strong interest in cybersecurity and software development. My projects and internships demonstrate my hands-on experience in system hardening, web application development, and security assessments. I'm passionate about creating efficient and secure solutions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tomaspcosta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tomaspcosta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaspcosta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Projects
-
-* **Linux System Hardening with Ansible:** Developed an Ansible-based automation for security hardening on Ubuntu 20.04, following CIS Benchmarks. Integrated OpenSCAP for vulnerability assessments and automatic remediation. Automated compliance reporting and system configuration validation. [cite: 9, 10] [Repository: [github.com/tomaspcosta/linux-hardening-awx](github.com/tomaspcosta/linux-hardening-awx)]
-* **Streaming App (UWP):** Built a UWP streaming app in C# (.NET Framework). Designed an authentication system with admin & user roles and SQLite database storage. Developed an admin panel for managing content, integrating a MySQL/SQL Server backend. [cite: 11, 12, 13] [Repository: [github.com/tomaspcosta/streaming-app-uwp](github.com/tomaspcosta/streaming-app-uwp)]
-
-### Professional Experience
-
-* **Cybersecurity Internship, Hospital Terra Quente - Mirandela, Bragança** (Jun 2021 - Sep 2021): Conducted port scanning, software verification, and CVE analysis to enhance network security. Created a network asset inventory and performed configuration audits to identify vulnerabilities. Implemented Wazuh for threat detection and compliance monitoring. Worked with IT teams to mitigate real-time security risks. [cite: 2, 3, 4]
-* **Cybersecurity Internship, EsACT IPB - Mirandela, Bragança** (Mar 2021 - Jun 2021): Improved student network security by analyzing OSINT sources and documenting an asset inventory. Performed port scans, vulnerability assessments (CVE-based), and network traffic analysis. Deployed Wazuh to enhance threat detection and security monitoring. [cite: 5, 6, 7]
-
-### Education
-
-* **Instituto Politécnico de Bragança:** Master's degree, Informatics (Ongoing) [cite: 8]
-* **Instituto Politécnico de Bragança:** Bachelor's degree, Informatics Engineering (Sept 2024) [cite: 8]
-* **Erasmus+ Exchange Programme, Polytechnic of Rijeka:** Computer Science (July 2024) [cite: 8]
-* **Instituto Politécnico de Bragança:** Higher Technical Professional Course, Cybersecurity (June 2021) [cite: 8]
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-### Socials
-
-<p align="left">
-<a href="https://discord.com/users/tmplar" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.github.com/tomaspcosta" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/tomascosta13" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a>
-</p>
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
